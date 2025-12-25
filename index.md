@@ -13,7 +13,7 @@ Unlike general text style analysis, Authorship Style Transfer (AST) aims to acti
 
 ## 2. Motivation
 Authorship style transfer has applications in education, cultural preservation, and content generation. The Arabic script is used by diverse languages with rich literary traditions. This task addresses challenges such as:
-- **Linguistic diversity**: Covering MSA, Urdu, Persian, and Kurdish.
+- **Linguistic diversity**: Covering MSA and Urdu.
 - **Complex Morphology**: Handling the rich morphology of these languages.
 - **Style Preservation**: Capturing the nuances of literary styles.
 
