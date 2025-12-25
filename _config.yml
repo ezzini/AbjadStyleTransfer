@@ -3,8 +3,8 @@ title: "AbjadStyleTransfer"
 theme: jekyll-theme-cayman
 github:
   is_project_page: true
-  repository_url: "https://forms.gle/JsBXRhWaoU9W2GgR6"
-  repository_name: "Registration Closed"
+  repository_url: "https://forms.gle/JYYMFMWqufdTHmxa6"
+  repository_name: "Registration Open"
 markdown:
   kramdown:
     auto_ids: false  # This disables automatic heading IDs
