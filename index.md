@@ -26,10 +26,8 @@ The dataset focuses on literature from prominent authors in the target languages
 ### AbjadStyleTransfer
 - **Goal**: Transform a formal input text into the style of a specified author while preserving semantics.
 - **Scope**: Literature in Modern Standard Arabic, Urdu, Persian, and Kurdish.
-- **Evaluation**: 
-    - **Automatic**: BLEU, chrF, Style Classification Accuracy.
-    - **Human**: Fluency, Semantic Preservation, Style Intensity.
-
+- **Evaluation**: BLEU, chrF
+    
 ## 5. Tentative Timeline
 - **December 25, 2025**: Release of training data
 - **january 10, 2026**: Release of test data
