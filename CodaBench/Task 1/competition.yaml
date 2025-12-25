@@ -1,0 +1,82 @@
+version: '2'
+title: 'AraSentEval 2026: Subtask 1 - Arabic Dialect Sentiment Analysis'
+description: 'Multi-class classification task focused on identifying the sentiment of texts written in various Arabic dialects.'
+docker_image: codalab/codalab-legacy:py37
+queue: null
+registration_auto_approve: true
+enable_detailed_results: true
+show_detailed_results_in_submission_panel: true
+show_detailed_results_in_leaderboard: true
+auto_run_submissions: true
+can_participants_make_submissions_public: true
+make_programs_available: false
+make_input_data_available: false
+competition_type: competition
+reward: ''
+contact_email: ''
+fact_sheet: null
+forum_enabled: true
+image: abjadarabic.png
+terms: terms.md
+pages:
+- title: Overview
+  file: overview-56758.md
+- title: Dataset
+  file: dataset-56759.md
+- title: Evaluation
+  file: evaluation-56760.md
+tasks:
+- index: 0
+  name: Subtask1_Dialect_Sentiment
+  description: Subtask 1 - Arabic Dialect Sentiment Analysis
+  is_public: true
+  reference_data: reference_data-24929.zip
+  scoring_program: scoring_program-24929.zip
+solutions: []
+phases:
+- index: 0
+  name: Development
+  description: "Development phase: access training and dev data to build your models.\n\n<h2>Submission Guidelines</h2>\n    <ol>\n      <li>\n        Your prediction file should be a CSV or text file with line-by-line predictions corresponding to the input. \n      </li>\n      <li>\n        Compress your prediction file as a ZIP file and upload it.\n      </li>\n    </ol>"
+  start: '2020-01-01'
+  end: '2026-02-10'
+  max_submissions_per_day: 15
+  max_submissions: 100
+  execution_time_limit: 600
+  auto_migrate_to_this_phase: false
+  hide_output: false
+  hide_prediction_output: false
+  hide_score_output: false
+  tasks:
+  - 0
+  solutions: []
+leaderboards:
+- index: 0
+  title: Results
+  key: Results
+  hidden: false
+  submission_rule: Force_Best
+  columns:
+  - title: Macro F1-Score
+    key: macro_f1
+    index: 0
+    sorting: desc
+    hidden: false
+    precision: 4
+  - title: Accuracy
+    key: accuracy
+    index: 1
+    sorting: desc
+    hidden: false
+    precision: 4
+  - title: Precision
+    key: precision
+    index: 2
+    sorting: desc
+    hidden: false
+    precision: 4
+  - title: Recall
+    key: recall
+    index: 3
+    sorting: desc
+    hidden: false
+    precision: 4

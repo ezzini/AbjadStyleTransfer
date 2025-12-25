@@ -1,0 +1,21 @@
+**Prompt for AraSentEval Logo Generation**
+
+**Subject:**
+A modern, professional, and minimalist logo for an NLP Shared Task named "AraSentEval" (Arabic Sentiment Evaluation).
+
+**Visual Elements:**
+1.  **Arabic Calligraphy:** A stylized, abstract representation of an Arabic letter like "Seen" (س) for Sentiment, or "Dad" (ض) to represent the Arabic language. The calligraphy should be sleek and modern, not traditional or ornate.
+2.  **Sentiment Swapping Duality:** Incorporate two interlocking or cycling arrows (swapping motion) that transition between two distinct colors (e.g., from a warm Orange/Red representing one emotion to a cool Blue/Green representing another). This symbolizes the "Sentiment Swap" subtask.
+3.  **AI & Technology:** Integrate subtle tech elements like circuit lines, nodes, or pixelated gradients into the strokes of the calligraphy or the arrows, emphasizing the Computational/AI nature of the task.
+
+**Style & Composition:**
+*   **Art Style:** Vector illustration, Flat Design, Clean Lines, Minimalist.
+*   **Layout:** Centered icon with "AraSentEval" text in a modern, bold sans-serif font below or to the right.
+*   **Color Palette:** Professional and vibrant. Deep Navy Blue (trust/tech), Turquoise (fresh/positive), and Coral or Amber (contrast/energy).
+*   **Background:** Clean white or transparent.
+
+**Modifier Keywords:**
+High resolution, 4k, vector graphics, logos vector, dribbble style, professional corporate identity, clean geometry, symmetrical balance.
+
+**Negative Prompt:**
+(low quality, blurry, complex background, text typo, messy lines, realistic photo, 3d render, shadows)

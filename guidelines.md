@@ -1,3 +1,8 @@
+---
+layout: default
+title: Participation Guidelines
+---
+
 # **AbjadStyleTransfer**: Shared Task on Authorship Style Transfer (Text Generation)
 
 ### Hosted with [AbjadNLP(2026)](https://wp.lancs.ac.uk/abjad/) at EACL 2026, Rabat, Morocco
