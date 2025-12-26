@@ -30,8 +30,8 @@ The dataset focuses on literature from prominent authors in the target languages
     
 ## 5. Tentative Timeline
 - **December 25, 2025**: Release of training data
-- **january 10, 2026**: Release of test data
-- **january 15, 2026**: End of evaluation cycle (test submissions close)
+- **January 10, 2026**: Release of test data
+- **January 15, 2026**: End of evaluation cycle (test submissions close)
 - **January 17, 2026**: Final results released
 - **January 21, 2025**: Shared task papers due date
 - **January 27, 2026**: Notification of acceptance
