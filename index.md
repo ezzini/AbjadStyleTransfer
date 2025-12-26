@@ -42,14 +42,8 @@ The dataset focuses on literature from prominent authors in the target languages
 - **Shadi Abudalfa**, King Fahd University of Petroleum & Minerals  
 - **Saad Ezzini**, King Fahd University of Petroleum & Minerals  
 - **Ahmed Abdelali**, HUMAIN  
-- **Salima Lamsiyah**, University of Luxembourg  
-- **Hamzah Luqman**, King Fahd University of Petroleum & Minerals  
 - **Mustafa Jarrar**, Hamad Bin Khalifa University / Birzeit University  
 - **Mo El-Haj**, VinUniversity  
-- **Abdelkader Elmahdaouy**, Mohammed VI Polytechnic University  
-- **Hamza Alami**, Sidi Mohamed Ben Abdellah University  
-- **Abdessamad Benlahbib**, Sidi Mohamed Ben Abdellah University  
-- **Salmane Chafik**, Mohammed VI Polytechnic University  
 
 ## 7. Participation Guidelines
 - Access the following links on Codabench platform to access the datasets and train/evalaute the perfomance of your system/model:
