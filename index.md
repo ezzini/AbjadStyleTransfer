@@ -43,7 +43,10 @@ The dataset focuses on literature from prominent authors in the target languages
 - **Saad Ezzini**, King Fahd University of Petroleum & Minerals  
 - **Ahmed Abdelali**, HUMAIN  
 - **Mustafa Jarrar**, Hamad Bin Khalifa University / Birzeit University  
-- **Mo El-Haj**, VinUniversity  
+- **Mo El-Haj**, VinUniversity
+- **Nadir Durrani**, HBKU, Qatar
+- **Hassan Sajjad**, Dalhousie University, Canada
+- **Farah Adeeba**, University of Massachusetts Amherst, USA  
 
 ## 7. Participation Guidelines
 - Access the following links on Codabench platform to access the datasets and train/evalaute the perfomance of your system/model:
